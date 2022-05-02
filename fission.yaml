@@ -1,0 +1,4 @@
+ignore:
+  - node_modules
+url: ctlos-ipfs.fission.app
+build: ./public
