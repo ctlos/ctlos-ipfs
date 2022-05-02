@@ -1,4 +1,5 @@
 ignore:
   - node_modules
+  - .gitkeep
 url: ctlos-ipfs.fission.app
 build: ./public
