@@ -22,8 +22,8 @@ sudo mv fission-cli-ubuntu-20.04-x86_64 /usr/local/bin/fission
 
 ```bash
 # edit custom url fission.yaml
-fission register
-fission publish
+fission app register
+fission app publish
 ```
 
 ## info dns
